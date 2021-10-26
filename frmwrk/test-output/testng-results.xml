@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26774" started-at="2021-10-26T09:30:55Z" finished-at="2021-10-26T09:31:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26774" started-at="2021-10-26T09:30:55Z" finished-at="2021-10-26T09:31:22Z">
+      <class name="test.frmwrk.GTtest">
+        <test-method status="PASS" signature="TS001()[pri:0, instance:test.frmwrk.GTtest@3bfdc050]" name="TS001" duration-ms="13032" started-at="2021-10-26T15:01:01Z" finished-at="2021-10-26T15:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.frmwrk.GTtest@3bfdc050]" name="test1" is-config="true" duration-ms="4167" started-at="2021-10-26T15:01:14Z" finished-at="2021-10-26T15:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.frmwrk.GTtest2@42d80b78]" name="teardown" is-config="true" duration-ms="4169" started-at="2021-10-26T15:01:18Z" finished-at="2021-10-26T15:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.frmwrk.GTtest -->
+      <class name="test.frmwrk.GTtest2">
+        <test-method status="PASS" signature="ts02()[pri:0, instance:test.frmwrk.GTtest2@42d80b78]" name="ts02" duration-ms="5386" started-at="2021-10-26T15:00:55Z" finished-at="2021-10-26T15:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ts02 -->
+      </class> <!-- test.frmwrk.GTtest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
